@@ -18,3 +18,15 @@ Here you can find an array of mathematical and "computative" tools for applicati
 * Polynomial Arithmetic
 * Algebra
 * *and more!*
+
+# When can I use this?
+
+Whenever! Everything is [MIT Licensed](https://opensource.org/licenses/MIT), meaning you can use this for anything, really! This means:
+* Closed-source projects
+* Derivative works
+* Open-source projects
+* For-profit projects
+* Append sublicenses
+* And anything else!
+
+Please, though, attribute us. Though it's not neccessary (nor do we feel it should be), it'd make our day.
